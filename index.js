@@ -68,3 +68,4 @@ function moving(index) {
 
 init();
 
+
